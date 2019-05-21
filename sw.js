@@ -12,8 +12,36 @@ workbox.core.clientsClaim();
 /* injection point for manifest files.  */
 workbox.precaching.precacheAndRoute([
   {
+    "url": "icons/icon-128x128.png",
+    "revision": "baa5857f10f5b1d33843e39199e3ce65"
+  },
+  {
+    "url": "icons/icon-144x144.png",
+    "revision": "0cda01648a179f428bba600f4e720cf8"
+  },
+  {
+    "url": "icons/icon-152x152.png",
+    "revision": "287da07c89b149450a3a1e6a6cd67e84"
+  },
+  {
+    "url": "icons/icon-192x192.png",
+    "revision": "81d0b4e36bb35a91dd9c0ab7c9b58903"
+  },
+  {
+    "url": "icons/icon-256x256.png",
+    "revision": "a3673873678c2f7df20a9d1935e89bf3"
+  },
+  {
+    "url": "icons/icon-32x32.png",
+    "revision": "5cb31d58f3a50353fafd7adf6d59f56d"
+  },
+  {
+    "url": "icons/icon-512x512.png",
+    "revision": "c9ecaac62ba7303ef85f0a47673f985d"
+  },
+  {
     "url": "index.html",
-    "revision": "b10ece1f49503a7c894c4a4f3c8e80a2"
+    "revision": "31354ae41caf83e7ebd9162918cdef37"
   },
   {
     "url": "static/css/main.34de6062.chunk.css",
