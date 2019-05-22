@@ -82,6 +82,8 @@ workbox.precaching.precacheAndRoute([
 ]);
 
 /* custom cache rules*/
-
-
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/index.html"), {
+  
+    blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
+  });
 
