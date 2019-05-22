@@ -40,20 +40,40 @@ workbox.precaching.precacheAndRoute([
     "revision": "c9ecaac62ba7303ef85f0a47673f985d"
   },
   {
+    "url": "images/wine01.jpg",
+    "revision": "fb883bbe2aae60f4585ae33b93862916"
+  },
+  {
+    "url": "images/wine02.jpg",
+    "revision": "d0e6061e11ad74d99d86414e35f9e361"
+  },
+  {
+    "url": "images/wine03.jpg",
+    "revision": "2eba4795f43afcc6be5c13772c5d460e"
+  },
+  {
+    "url": "images/wine04.jpg",
+    "revision": "8cbe960b030290c94722f08442b23c21"
+  },
+  {
+    "url": "images/wine05.jpg",
+    "revision": "cdb476565e57e51eb8551a93741f4a67"
+  },
+  {
     "url": "index.html",
-    "revision": "eb4d20a65f45bb1b5293ee9f1d11521c"
+    "revision": "957d72c158c692d55dadb0c77d3250d0"
   },
   {
     "url": "static/css/main.34de6062.chunk.css",
     "revision": "d4920c6f452b98a23976e5f89e35158e"
   },
   {
-    "url": "static/js/2.07227b38.chunk.js",
-    "revision": "1ba0842daeb56914bd0cfb75da0ece68"
+    "url": "static/js/2.1b6b1f4f.chunk.js",
+    "revision": "97108794388ceebc808152573422b86b"
   },
   {
-    "url": "static/js/main.0d0aec34.chunk.js",
-    "revision": "201eabbaad9e495cb942d29a1b0fb7c6"
+    "url": "static/js/main.b899ad75.chunk.js",
+    "revision": "b4585275782ebb223d17798b3aa0cd86"
   },
   {
     "url": "static/js/runtime~main.a8a9905a.js",
