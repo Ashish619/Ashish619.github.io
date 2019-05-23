@@ -13,31 +13,31 @@ workbox.core.clientsClaim();
 workbox.precaching.precacheAndRoute([
   {
     "url": "icons/icon-128x128.png",
-    "revision": "baa5857f10f5b1d33843e39199e3ce65"
+    "revision": "79bf576c32720599dfc59fe7077945ab"
   },
   {
     "url": "icons/icon-144x144.png",
-    "revision": "0cda01648a179f428bba600f4e720cf8"
+    "revision": "88f0f172de50e4fb6d4bccafedb23427"
   },
   {
     "url": "icons/icon-152x152.png",
-    "revision": "287da07c89b149450a3a1e6a6cd67e84"
+    "revision": "3f71765b47124a940bf83df5ad4b8c9f"
   },
   {
     "url": "icons/icon-192x192.png",
-    "revision": "81d0b4e36bb35a91dd9c0ab7c9b58903"
+    "revision": "0377f2dca4d16673c30c2e5b4aadb2d3"
   },
   {
     "url": "icons/icon-256x256.png",
-    "revision": "a3673873678c2f7df20a9d1935e89bf3"
+    "revision": "cae5208363c21ca179da6b36eca778f4"
   },
   {
     "url": "icons/icon-32x32.png",
-    "revision": "5cb31d58f3a50353fafd7adf6d59f56d"
+    "revision": "5fa7e0dc596197468e26274315825be4"
   },
   {
     "url": "icons/icon-512x512.png",
-    "revision": "c9ecaac62ba7303ef85f0a47673f985d"
+    "revision": "d0a8182ae46731e916bb1dcb5a8d9e25"
   },
   {
     "url": "images/wine01.jpg",
