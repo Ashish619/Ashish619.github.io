@@ -13,19 +13,19 @@ workbox.core.clientsClaim();
 workbox.precaching.precacheAndRoute([
   {
     "url": "index.html",
-    "revision": "5bdd22f3747dfc302301c7f6963ee08d"
+    "revision": "5492b2dd858cb51097f0eb087ae4b8a3"
   },
   {
     "url": "static/css/main.34de6062.chunk.css",
     "revision": "d4920c6f452b98a23976e5f89e35158e"
   },
   {
-    "url": "static/js/2.1b6b1f4f.chunk.js",
-    "revision": "97108794388ceebc808152573422b86b"
+    "url": "static/js/2.5663e8c0.chunk.js",
+    "revision": "00c725db6f88e17e34f55a07a8a5bd98"
   },
   {
-    "url": "static/js/main.9ea56aa2.chunk.js",
-    "revision": "9eb0ea58465958cd1c3007e95708ddf9"
+    "url": "static/js/main.c0f476a0.chunk.js",
+    "revision": "0743e7fa1c239a06cec0bc958f58b164"
   },
   {
     "url": "static/js/runtime~main.a8a9905a.js",
